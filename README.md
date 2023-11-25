@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, meu nome é Vitor</h1>
 <h3 align="center">Estudante de programação com foco em back-end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvitormsilva&label=Profile%20views&color=0e75b6&style=flat" alt="devvitormsilva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvitormsilva&label=Profile%20views&color=0e75b6&style=flat" alt="DevVitorMSilva" /> </p>
 
 - 🔭 Atualmente estou cursando na **DoDev School**
 
