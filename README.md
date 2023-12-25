@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou cursando na **DoDev School**
 
-- 🌱 Atualmente estou estudando **Lógica de programação em JavaScript**
+- 🌱 Atualmente estou estudando **Node.js, testes e APIs HTTP**
 
 - 📫 Meu contato **vitormarcos2005@hotmail.com**
 
