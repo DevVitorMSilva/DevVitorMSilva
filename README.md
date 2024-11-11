@@ -5,12 +5,13 @@
 
 - 🔭 Atualmente estou cursando na **DoDev School**
 
-- 🌱 Atualmente estou estudando **Front-end**
+- 🌱 Atualmente estou estudando **React**
 
 - 📫 Meu contato **vitormarcos2005@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/vitor-silva-502b512a7/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
